@@ -6,7 +6,7 @@ Select all 3 zips and Unzip them.
 Run the Xavier's Unleashed.exe to play the game/
 Have fun. 😎
 
-Gameplay[Click Here](https://www.youtube.com/watch?v=8lZHMXZl7nA)
+Gameplay: [Click Here](https://www.youtube.com/watch?v=8lZHMXZl7nA)
 
 - Developers Raj Mehta, Tanmay Jain, Aaron Gomes & Jigar Kurani                                                   (Year 2018)
     Students of BSc(Information Technology), St. Xaviers College, Mumbai
